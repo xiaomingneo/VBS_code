@@ -1,4 +1,5 @@
-'XX is the array to test QuickSort function
+'Reference:
+'[1]http://student.zjzk.cn/course_ware/data_structure/web/paixu/paixu8.3.2.1.htm
 'Author: xiaomingneo
 '----------------------------
 Const N=20
