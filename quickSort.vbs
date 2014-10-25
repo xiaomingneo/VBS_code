@@ -1,9 +1,10 @@
-'Reference:
-'[1]http://student.zjzk.cn/course_ware/data_structure/web/paixu/paixu8.3.2.1.htm
-'Author: xiaomingneo
+' The quick sort algorithm realized by VBScript.
+' Reference:
+'     [1]http://student.zjzk.cn/course_ware/data_structure/web/paixu/paixu8.3.2.1.htm
+' Author: xiaomingneo
 '----------------------------
 Const N=20
-Dim XX(20)
+ReDim XX(N)
 'Generate 20 random integer as the test array
 For I=0 To N-1
 	Randomize
